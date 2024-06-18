@@ -1,0 +1,387 @@
+
+
+
+
+
+.borde { /* PARA DAR BORDE REDONDEADO */
+    -fx-background-radius: 20;
+    -fx-border-radius: 20;
+    -fx-background-color: white;
+    -fx-border-width: 1;
+}
+
+
+.bordeDashBoard {
+    -fx-background-radius: 15;
+    -fx-border-radius: 3;
+    -fx-background-color: white;
+    -fx-border-width: 1;
+}
+
+.textoMenu {
+    -fx-text-fill:  #a9a9a9;
+}
+
+
+.panelMenu {
+    -fx-background-color: transparent;
+}
+
+.panelMenu:hover {
+    -fx-background-color: #383838;
+}
+
+.panelMenu:pressed {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* Color al clickear el boton */
+}
+
+/* -------------------------LOGIN BUTTON---------------------------- */
+.buttontransparent {
+    -fx-background-color: transparent; /* Fondo transparente */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-background-radius: 20; /* Radio de los bordes del botón */
+    -fx-border-color: white; /* Color del borde */
+    -fx-border-width: 2px; /* Ancho del borde */
+    -fx-border-radius: 20; /* Radio de los bordes del botón */
+    -fx-padding: 10; /* Espaciado interno del botón */
+}
+
+.buttontransparent:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.1); /* Color al pasar el cursor por encima */
+}
+
+.buttontransparent:pressed {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* Color al clickear el botón */
+}
+
+/* -------------------------LOGIN BUTTON---------------------------- */
+
+.buttonLOGINREG {
+    -fx-background-color: #2b2b2b; /* Fondo del botón */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-background-radius: 20; /* Radio de los bordes del boton */
+    -fx-border-radius: 20; /* Radio de los bordes del boton */
+    -fx-padding: 10; /* Espaciado interno del boton */
+}
+
+.buttonLOGINREG:hover {
+    -fx-background-color: #3a3a3a; /* Color al pasar el cursor por encima */
+}
+
+.buttonLOGINREG:pressed {
+    -fx-background-color: #1f1f1f; /* Color al clickear el botón */
+}
+
+
+
+/* -------------------------TEXT FIELD DEL INICIO---------------------------- */
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: #464646;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px; /* Esto le da esquinas ligeramente redondeadas */
+    
+    -fx-font-size: 14px; 
+    -fx-text-fill: white; /* Color del texto */
+    -fx-prompt-text-fill: #B0B0B0; 
+    -fx-focus-color: #00BFFF; /* Color del borde cuando el textfield este enfocado */
+    -fx-faint-focus-color: transparent; /* Color de resplandor cuando el textfield este enfocado */
+}
+
+.text-field:hover {
+    -fx-border-color: #606060; /* Cambia el color del borde cuando se pasa el mouse sobre el textfield */
+}
+
+.text-field:focused {
+    -fx-border-color: #00BFFF; /* Cambia el color del borde cuando el textfield esta enfocado */
+}
+/* -------------------------TEXT FIELD---------------------------- */
+
+
+/* -------------------------DATE PICKER---------------------------- */
+
+* {
+	-fx-primary-color: #007acc;
+	-fx-secondary-color: #4B6EAF;
+	-fx-light-grey-color: #d1d1d1;
+	-fx-focus-color: -fx-secondary-color;
+}
+
+.date-picker {
+    -fx-background-color: transparent;
+    -fx-border-color: #464646;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px;
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: #B0B0B0;
+    -fx-focus-color: #00BFFF;
+    -fx-faint-focus-color: transparent;
+}
+
+.date-picker:hover {
+    -fx-border-color: #606060;
+}
+
+.date-picker:focused {
+    -fx-border-color: #00BFFF;
+}
+
+.date-picker .arrow-button {
+	-fx-background-color: -fx-primary-color;
+	-fx-background-radius: 0;
+}
+
+.date-picker .arrow-button:hover {
+	-fx-background-color: -fx-secondary-color;
+}
+
+.date-picker .arrow-button .arrow {
+	-fx-background-color: white;
+}
+
+.date-picker .cell {
+	-fx-background-color: white;
+}
+
+.date-picker .cell:hover {
+	-fx-background-color: -fx-light-grey-color;
+}
+
+.date-picker .cell:focused {
+	-fx-background-color: -fx-light-grey-color;
+}
+
+.date-picker .selected {
+	-fx-background-color: -fx-primary-color;
+	-fx-text-fill: white;
+}
+
+.date-picker .selected:focused {
+	-fx-background-color: -fx-primary-color;
+	-fx-text-fill: white;
+}
+
+.date-picker-popup  {
+	-fx-border-color: transparent;
+}
+
+.date-picker-popup .month-year-pane {
+	-fx-background-color: -fx-primary-color;
+}
+
+.date-picker-popup .month-year-pane .label {
+	-fx-text-fill: white;
+}
+
+.date-picker-popup .week-number-cell {
+	-fx-text-fill: -fx-secondary-color;
+}
+
+.date-picker-popup .spinner .button .left-arrow,
+.date-picker-popup .spinner .button .right-arrow {
+	-fx-background-color: white;
+}
+
+/* -------------------------DATE PICKER---------------------------- */
+
+/* -------------------------BUTTON 2---------------------------- */
+
+.button2 {
+    -fx-background-color: transparent;
+    -fx-border-color: #464646;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px;
+    -fx-padding: 5px;
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-focus-color: #00BFFF;
+    -fx-faint-focus-color: transparent;
+}
+
+.button2:hover {
+    -fx-border-color: #606060;
+}
+
+.button2:focused {
+    -fx-border-color: #00BFFF;
+}
+
+.button2:pressed {
+    -fx-background-color: #00BFFF;
+    -fx-text-fill: white;
+}
+
+
+
+/* -------------------------BUTTON 2---------------------------- */
+
+/* -------------------------TABLEVIEW---------------------------- */
+.table-view {
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: white;
+}
+
+.table-row-cell {
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: white;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+}
+
+.table-column {
+    -fx-background-color: #2b2b2b;
+    -fx-border-color: #464646;
+    -fx-border-width: 1px;
+    -fx-text-fill: white;
+}
+
+.table-column:hover {
+    -fx-background-color: #606060;
+}
+
+.table-header-row {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+}
+
+.table-header-background {
+    -fx-background-color: transparent;
+}
+
+
+
+
+.table-view .filler {
+    -fx-background-color: transparent; 
+    -fx-background-insets: 0; 
+}
+
+
+/* Estilos para la columna de la tabla de clientes */
+.cliente-columna .label {
+    -fx-text-fill: #007acc; /* Color de texto para la tabla de clientes */
+}
+
+/* Estilos para la columna de la tabla de atrasados */
+.atrasados-columna .label {
+    -fx-text-fill: #ff0000; /* Color de texto para la tabla de atrasados */
+}
+
+/* -------------------------BARCHART---------------------------- */
+.bar-chart {
+    -fx-background-color: transparent; /* Fondo transparente */
+    -fx-border-color: gray; /* Borde gris */
+    -fx-border-width: 1px; /* Ancho del borde */
+}
+
+/* Estilo para el fondo del grafico */
+.bar-chart .chart-plot-background {
+    -fx-background-color: transparent;
+}
+
+/* Estilo para el contenido del graf */
+.bar-chart .chart-content {
+    -fx-background-color: transparent;
+}
+
+/* Estilo para los ejes */
+.bar-chart .axis {
+    -fx-text-fill: white; /* Color del texto */
+    -fx-tick-label-fill: white; /* Color de las etiquetas de los ticks */
+    -fx-tick-mark-fill: white; /* Color de las marcas de los ticks */
+}
+
+/* Estilo para las etiquetas de los ejes */
+.bar-chart .axis .axis-label {
+    -fx-text-fill: white; /* Color del texto */
+}
+
+/* Estilo para las barras del graf */
+.bar-chart .chart-bar {
+    -fx-bar-fill: #007acc; /* Color de las barras */
+}
+
+/* Estilo para las barras del grafico cuando estan en hover */
+.bar-chart .chart-bar:hover {
+    -fx-bar-fill: #3a3a3a; /* Color de las barras en hover */
+}
+
+
+
+/* -------------------------BARCHART---------------------------- */
+
+
+/* COMBOBOX */
+.ComboBoxRegistro .list-cell {
+    -fx-text-fill: white;
+}
+
+.ComboBoxRegistro .combo-box-popup .list-cell {
+    -fx-background-color:  #2f2d2e;
+    -fx-text-fill: white;
+}
+
+.ComboBoxRegistro .combo-box-popup .list-cell:hover {
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+}
+
+
+.ComboBoxRegistro {
+    -fx-font: 15px "Noto Sans";
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+    -fx-border-color: gray;
+    -fx-border-radius: 3px; /* Esto le da esquinas ligeramente redondeadas */
+}
+
+.ComboBoxRegistro .text-field {
+    -fx-font: 15px "Noto Sans";
+    -fx-text-fill: white;
+}
+
+ /* COMBOBOX */
+
+ 
+  /* BUTTONS DE LA FICHA */
+.buttonFicha {
+    -fx-background-color: transparent; /* Fondo transparente */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-background-radius: 20; /* Radio de los bordes del botón */
+    -fx-border-color: white; /* Color del borde */
+    -fx-border-width: 2px; /* Ancho del borde */
+    -fx-border-radius: 20; /* Radio de los bordes del botón */
+    -fx-padding: 10; /* Espaciado interno del botón */
+}
+
+.buttonFicha:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.1); /* Color al pasar el cursor por encima */
+}
+
+.buttonFicha:pressed {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* Color al clickear el boton */
+}
+ /* BUTTONS DE LA FICHA */
+ 
+ 
+
+
+.buttonCONFIGUSUARIO {
+    -fx-background-color: transparent; /* Fondo transparente */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-padding: 10; /* Espaciado interno del botón */
+}
+
+.buttonCONFIGUSUARIO:hover {
+    -fx-background-color: rgba(255, 255, 255, 0.1); /* Color al pasar el cursor por encima */
+}
+
+.buttonCONFIGUSUARIO:pressed {
+    -fx-background-color: rgba(255, 255, 255, 0.2); /* Color al clickear el boton */
+}
+/* BUTTONS config  */

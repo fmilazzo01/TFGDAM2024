@@ -1,0 +1,163 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\bin\javaw.exe (not found)
+Check launcher:	c:\windows\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\wbem\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\windowspowershell\v1.0\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\openssh\bin\javaw.exe (not found)
+Check launcher:	c:\programdata\chocolatey\bin\javaw.exe (not found)
+Check launcher:	c:\program files\nvidia corporation\nvidia nvdlisr\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\Programacion\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Franco\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\bin\javaw.exe (not found)
+Check launcher:	c:\windows\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\wbem\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\windowspowershell\v1.0\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\openssh\bin\javaw.exe (not found)
+Check launcher:	c:\programdata\chocolatey\bin\javaw.exe (not found)
+Check launcher:	c:\program files\nvidia corporation\nvidia nvdlisr\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\Programacion\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Franco\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\chocolatey\bin;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Programacion\Git\cmd;C:\Users\Franco\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\bin\javaw.exe (not found)
+Check launcher:	c:\windows\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\wbem\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\windowspowershell\v1.0\bin\javaw.exe (not found)
+Check launcher:	c:\windows\system32\openssh\bin\javaw.exe (not found)
+Check launcher:	c:\programdata\chocolatey\bin\javaw.exe (not found)
+Check launcher:	c:\program files\nvidia corporation\nvidia nvdlisr\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	D:\Programacion\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Franco\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Franco\Documents\NetBeansProjects\ProyectoDAM\out\GymWizz.exe"
+Args length:	77/32768 chars
+Exit code:	0
